@@ -31,11 +31,9 @@ struct Axes {
   int roll;
   int pitch;
   int thrust;
-  int yaw;
   int roll_direction;
   int pitch_direction;
   int thrust_direction;
-  int yaw_direction;
 };
 
 struct Buttons {
